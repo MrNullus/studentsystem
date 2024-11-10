@@ -13,4 +13,5 @@
     <toc-element topic="Model.md"/>
     <toc-element topic="Connect-Database.md"/>
     <toc-element topic="Save-Data.md"/>
+    <toc-element topic="Get-Data-from-Database.md"/>
 </instance-profile>
