@@ -1,5 +1,7 @@
 # Connect Database
 
+![connection-issue.gif](../images/connection-issue.gif)
+
 Antes de tudo precisamos primeiro criar o banco de dados, no caso vou usar um plugin da própria IDEA que existem em outros produtos da JetBrains também que é chamado de Database.
 
 Basta criarmos uma coneção escolhaendo MySQL, porque é o que vamos usar:
