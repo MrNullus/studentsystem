@@ -6,6 +6,7 @@
                  name="Docs"
                  start-page="starter-topic.md">
 
+    <toc-element topic="Model.md"/>
     <toc-element topic="starter-topic.md"/>
     <toc-element topic="Learn-Spring-Boot-React.md"/>
     <toc-element topic="Start.md"/>
